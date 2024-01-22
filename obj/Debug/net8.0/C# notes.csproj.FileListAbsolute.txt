@@ -1,0 +1,15 @@
+C:\Users\gabri\Source\Repos\413-notes\obj\Debug\net8.0\C# notes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Source\Repos\413-notes\obj\Debug\net8.0\C# notes.AssemblyInfoInputs.cache
+C:\Users\gabri\Source\Repos\413-notes\obj\Debug\net8.0\C# notes.AssemblyInfo.cs
+C:\Users\gabri\Source\Repos\413-notes\obj\Debug\net8.0\C# notes.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Source\Repos\413-notes\obj\Debug\net8.0\C# notes.sourcelink.json
+C:\Users\gabri\Source\Repos\413-notes\bin\Debug\net8.0\C# notes.exe
+C:\Users\gabri\Source\Repos\413-notes\bin\Debug\net8.0\C# notes.deps.json
+C:\Users\gabri\Source\Repos\413-notes\bin\Debug\net8.0\C# notes.runtimeconfig.json
+C:\Users\gabri\Source\Repos\413-notes\bin\Debug\net8.0\C# notes.dll
+C:\Users\gabri\Source\Repos\413-notes\bin\Debug\net8.0\C# notes.pdb
+C:\Users\gabri\Source\Repos\413-notes\obj\Debug\net8.0\C# notes.dll
+C:\Users\gabri\Source\Repos\413-notes\obj\Debug\net8.0\refint\C# notes.dll
+C:\Users\gabri\Source\Repos\413-notes\obj\Debug\net8.0\C# notes.pdb
+C:\Users\gabri\Source\Repos\413-notes\obj\Debug\net8.0\C# notes.genruntimeconfig.cache
+C:\Users\gabri\Source\Repos\413-notes\obj\Debug\net8.0\ref\C# notes.dll
